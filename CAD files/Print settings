@@ -1,0 +1,30 @@
+The basic pla Settings in bambu studio other than the below:
+Only one wall on top surface - Not applied
+Top surface pattern - Concentric
+Bottom surface pattern - Rectilinear
+Sparse infill pattern - Gyroid
+Enable supports - On
+Top Z distance - .24mm
+Bottom Z distance - .24mm
+Base Pattern - Rectilinear
+
+The front strut has to be paused at the top of each bearing location to insert the bearing in while printing.
+The steering strut needs to be paused at the top of its bearing location to put the bearing in while printing. 
+
+
+The tire are printed out of TPU 85A, I had to heavlity modify the settings, but start with the bambu studio TPU 95A settings
+Line width Default - 0.45mm
+Line width outer wall - .45mm
+Wall loops - 5
+Sparse infill density - 90%
+Sparse infill pattern - Cubic
+Speed intial layer - 15mm/s
+Speed intial layer infill 15mm/s
+Speed outer wall 20mm/s
+Speed inner wall 30mm/s
+Speed sparse infill 40mm/s
+Speed internal solid infill 40mm/s
+Speed top surface 20mm/s
+Speed travel 100mm/s
+Flow rate 1.5
+auxillary fan 0%
