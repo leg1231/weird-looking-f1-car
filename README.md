@@ -3,6 +3,15 @@ I build a RC f1 car that uses motors that are to large.
 
 The motors are from a hoverboard that I got that was broken, so as one does they put it in a little car that creates enough torque to do a burnout at 25% throttle. 
 
+Features
+- each wheel is individually stearable( revers or positve ackerman)
+- 3d printed ( easy to repair)
+- FUN
+- 3ft long
+- personalizable
+- driftable
+
+
 <img width="1024" height="768" alt="38F4417C-0CD1-4FBF-A528-06B974A8FFAD_1_105_c" src="https://github.com/user-attachments/assets/83a3c077-4ac0-4ff6-bb6e-497f332f26e1" />
 
 <img width="768" height="1024" alt="DDD26E48-8DF4-418B-BD40-80D3314D60D0_1_105_c" src="https://github.com/user-attachments/assets/d32768c5-c78c-4ffc-a90d-e5b0f1c12585" />
