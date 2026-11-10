@@ -11,6 +11,8 @@ Features
 - personalizable
 - driftable
 
+- I don’t have a full step file of all parts because it was to large :)
+
 
 <img width="1024" height="768" alt="38F4417C-0CD1-4FBF-A528-06B974A8FFAD_1_105_c" src="https://github.com/user-attachments/assets/83a3c077-4ac0-4ff6-bb6e-497f332f26e1" />
 
