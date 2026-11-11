@@ -1,7 +1,7 @@
 # weird-looking-f1-car
 I built a RC f1 car that uses motors that are to large.
 
-The motors are from a hoverboard that I got that was broken, so as one does they put it in a little car that creates enough torque to do a burnout at 25% throttle. 
+The motors are from a hoverboard that I got that was broken, so as one does they put it in a little car that creates enough torque to do a burnout at 25% throttle. You can use it however you like, I drive it around a parking lot, if you want to build two you could race them. 
 
 Features
 - each wheel is individually stearable( revers or positve ackerman)
